@@ -1,3 +1,5 @@
+![](https://github.com/VolkovVadim/AsyncTimer/blob/main/demo.gif)
+
 # Сборка и запуск
 ```bash
 mkdir build && cd build
